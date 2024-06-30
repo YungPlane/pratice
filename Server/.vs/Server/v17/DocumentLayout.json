@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Server\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3199E699-628F-4672-ADDF-1986B5C8E364}|Server\\Server.csproj|f:\\server\\server\\server\\controllers\\elementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3199E699-628F-4672-ADDF-1986B5C8E364}|Server\\Server.csproj|solutionrelative:server\\controllers\\elementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3199E699-628F-4672-ADDF-1986B5C8E364}|Server\\Server.csproj|f:\\server\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3199E699-628F-4672-ADDF-1986B5C8E364}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3199E699-628F-4672-ADDF-1986B5C8E364}|Server\\Server.csproj|f:\\server\\server\\server\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3199E699-628F-4672-ADDF-1986B5C8E364}|Server\\Server.csproj|solutionrelative:server\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3199E699-628F-4672-ADDF-1986B5C8E364}|Server\\Server.csproj|f:\\server\\server\\server\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3199E699-628F-4672-ADDF-1986B5C8E364}|Server\\Server.csproj|solutionrelative:server\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Element.cs",
+              "DocumentMoniker": "F:\\Server\\Server\\Server\\Element.cs",
+              "RelativeDocumentMoniker": "Server\\Element.cs",
+              "ToolTip": "F:\\Server\\Server\\Server\\Element.cs",
+              "RelativeToolTip": "Server\\Element.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:42:36.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext .cs",
+              "DocumentMoniker": "F:\\Server\\Server\\Server\\ApplicationDbContext .cs",
+              "RelativeDocumentMoniker": "Server\\ApplicationDbContext .cs",
+              "ToolTip": "F:\\Server\\Server\\Server\\ApplicationDbContext .cs",
+              "RelativeToolTip": "Server\\ApplicationDbContext .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:42:25.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElementsController.cs",
+              "DocumentMoniker": "F:\\Server\\Server\\Server\\Controllers\\ElementsController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\ElementsController.cs",
+              "ToolTip": "F:\\Server\\Server\\Server\\Controllers\\ElementsController.cs",
+              "RelativeToolTip": "Server\\Controllers\\ElementsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:40:33.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Server\\Server\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "F:\\Server\\Server\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:29:12.226Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

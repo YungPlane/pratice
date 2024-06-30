@@ -1,0 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Server;
+
+public class ApplicationDbContext : DbContext
+{
+    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
+
+    public DbSet<Element> elements { get; set; }
+}
